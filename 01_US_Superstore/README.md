@@ -8,7 +8,7 @@ This repository showcases interactive Excel dashboards analyzing sales, profits,
 
 ### 1. **Superstore Sales Performance Dashboard**
 
-![Superstore Sales Performance Dashboard](Images/Sales_Performance_Dashboard.png)
+![Superstore Sales Performance Dashboard](Images/Superstore_Sales_Dashboard.png)
 
 - **Description**: A dashboard providing insights into sales performance by region, manager, and customer segments.
 - **Key Features**:
@@ -20,7 +20,7 @@ This repository showcases interactive Excel dashboards analyzing sales, profits,
 
 ### 2. **Superstore Product Insights Dashboard**
 
-![Superstore Product Insights Dashboard](Images/Product_Insights_Dashboard.png)
+![Superstore Product Insights Dashboard](Images/Product_Performance_Dashboard.png)
 
 - **Description**: A dashboard analyzing product-level performance across categories and subcategories.
 - **Key Features**:
