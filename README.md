@@ -24,7 +24,7 @@ Excel-Dashboards-Showcase/
 
 ## Projects
 
-### 1. Superstore Dashboards
+### 1. [Superstore Dashboards](./01_US_Superstore/README.md)
 
 Dashboards analyzing sales, profit, discounts, and product-level performance trends using the fictional Superstore dataset.
 
